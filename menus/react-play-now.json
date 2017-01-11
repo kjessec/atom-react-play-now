@@ -1,0 +1,32 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle react-play-now",
+        "command": "react-play-now:toggle"
+      }
+    ],
+    ".tree-view .file > .name": [
+      {
+        "label": "Open in react-play-now",
+        "command": "react-play-now:start"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "react-play-now",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "react-play-now:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
