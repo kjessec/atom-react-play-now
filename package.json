@@ -28,6 +28,7 @@
     "react-for-atom": "^15.3.1-0",
     "react-formagic": "^0.3.2",
     "react-json-tree": "^0.10.1",
-    "react-proxy": "^2.0.8"
+    "react-proxy": "^2.0.8",
+    "recompose": "^0.21.2"
   }
 }
